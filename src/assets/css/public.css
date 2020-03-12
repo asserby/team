@@ -1,0 +1,72 @@
+body,
+button,
+dd,
+div,
+dl,
+dt,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+li,
+ol,
+p,
+pre,
+td,
+textarea,
+th,
+ul,
+picture,
+blockquote {
+	padding: 0;
+	margin: 0;
+}
+ul,
+dl {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+body {
+	width: 100vw;
+	height: auto;
+	overflow-x: hidden;
+	font-size: 16px;
+	font-family: '微软雅黑,Avenir', Helvetica, Arial, sans-serif;
+	-webkit-tap-highlight-color: transparent;
+	-o-tap-highlight-color: transparent;
+	-ms-tap-highlight-color: transparent;
+}
+
+img,
+input,
+textarea {
+	border: none;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clearfix:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+em,
+i {
+	font-style: normal;
+}
+.pos {
+	position: relative;
+}
+button {
+	outline: none;
+}

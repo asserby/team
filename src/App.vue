@@ -1,7 +1,6 @@
 <template>
 	<div id="app">
-		<h>我很好</h>
-		问世间情为何物!
+		<a href="">贝贝你就是我的唯一</a>
 		<router-view></router-view>
 	</div>
 </template>

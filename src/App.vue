@@ -1,6 +1,7 @@
 <template>
 	<div id="app">
-		问世间情为何物!
+		<h1>你好！</h1>
+		问世间!
 		<router-view></router-view>
 	</div>
 </template>

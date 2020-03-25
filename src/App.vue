@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+		<p>我不好</p>
 		问世间情为何物!
 		<router-view></router-view>
 	</div>

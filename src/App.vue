@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+        <a href="">贝贝你就是我的唯一</a>
 		<div>hello 小明</div>
 		<h>我是一只小小鸟</h>
 		想要飞也飞不高

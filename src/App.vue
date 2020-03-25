@@ -1,7 +1,8 @@
 <template>
 	<div id="app">
-		<h>我很好</h>
-		问世间情为何物!
+		<div>hello 小明</div>
+		<h>我是一只小小鸟</h>
+		想要飞也飞不高
 		<router-view></router-view>
 	</div>
 </template>
